@@ -1,0 +1,27 @@
+1. Solicitar a leitura de um numero indefinidos de valores inteiros, a leitura chega ao final
+
+quando a soma for igual 100 ou for digitado o valor 0 ou o total de números digitados é
+
+igual a 13. Mostrar ao final qual o maior valor lido e o menor valor lido.
+
+2. Faça um programa que leia um numero entre 1 e 3, caso o usuário digite 1, o programa
+
+deve solicitar a leitura de 2 números e mostrar a soma dos mesmo. Caso usuário digite 2
+
+o programa deve solicitar três números e mostrar a soma, se digitar três deve encerrar o
+
+programa.
+
+3. Faça um programa que solicite a leitura de dois números, esses números pode ser apenas
+
+entre 0 e 10. Ao final mostre a soma dos valores lidos.
+
+4. Faça um programa que solicite a leitura de dois números, esses números pode ser apenas
+
+entre 0 e 10. Ao final mostre quantas tentativas foram realizadas.
+
+5. Escrever um algoritmo que leia uma quantidade desconhecida de números e conte
+
+quantos deles estão nos seguintes intervalos: [0.25], [26,50], [51,75] e [76,100]. A entrada
+
+de dados deve terminar quando for encontrada 10 valores no intervalo.
